@@ -11,6 +11,7 @@
 
 * **Data Source:**
     > _Describe the `cs-training.csv` file. What does it contain? Where was it sourced from?_
+    > No idea where the data is sourced from!
 
 * **Preprocessing Step(s):**
     > _What happened in the `process.py` script? Think about data cleaning, feature engineering, and splitting the data._
