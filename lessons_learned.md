@@ -1,8 +1,8 @@
 ## Corndel - Level 6 Applied AI Engineering
 # 📝 Lessons-Learnt Log: QuickLoan Workshop
 
-**Name:** `___________________________`
-**Date:** `____/____/______`
+**Name:** `Alexandra Micklem`
+**Date:** `19/10/2026`
 **Workshop:** `WS1 – Ethics-First Design in Action`
 
 ---
